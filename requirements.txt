@@ -1,0 +1,11 @@
+aioboto3==9.6.0
+aiobotocore==2.3.2
+aiohttp==3.8.1
+boto3==1.23.2
+idna==3.3
+jmespath==1.0.0
+marshmallow==3.15.0
+python-dateutil==2.8.2
+simplejson==3.17.6
+typing-extensions==4.2.0
+urllib3==1.26.9
